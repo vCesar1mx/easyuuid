@@ -1,0 +1,37 @@
+{
+  "name": "easyuuid",
+  "version": "1.0.9",
+  "description": "uuid generator creates Unique random use hash.",
+  "private": false,
+  "main": "build/lib/uuidv4.js",
+  "types": "build/lib/uuidv4.d.ts",
+  "dependencies": {
+    "@types/uuid": "8.3.4",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "assertthat": "6.4.0",
+    "roboter": "12.7.1",
+    "semantic-release-configuration": "2.0.7"
+  },
+  "scripts": {},
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/vCesar1mx/easyuuid"
+  },
+  "keywords": [
+    "guid",
+    "uuid",
+    "generator",
+    "uuidgen",
+    "generate"
+    "id",
+    "idgen",
+    "gen",
+    "key",
+    "keygen",
+    "unique",
+    "identifier"
+  ],
+  "license": "MIT"
+}
